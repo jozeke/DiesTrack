@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* opcional: suaviza tipografía */
+html, body {
+  height: 100%;
+}
