@@ -872,7 +872,7 @@ export default function DiesTrackApp() {
                activeView.replace('-', ' ')}
             </h1>
             <p className="text-slate-500 text-sm mt-1">
-              Sistema de Monitoreo Inteligente
+              Sistema de Monitoreo Inteligente de Consumo de Diesel
             </p>
           </div>
         </header>
